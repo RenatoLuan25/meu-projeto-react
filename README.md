@@ -1,37 +1,30 @@
 
 # Projeto React - Catálogo de Produtos
 
-## 📄 Descrição
+##  Descrição
 
 Este projeto foi desenvolvido como parte da atividade da disciplina, utilizando a biblioteca **ReactJS** para construir uma interface com listagem de produtos e página de detalhes.
 
 A aplicação faz requisições HTTP à API externa **[DummyJSON](https://dummyjson.com)**, utilizando especificamente a rota `/products`.
 
-## 🔗 Funcionalidades
+##  Funcionalidades
 
 - Página inicial com **listagem de 10 produtos**
 - Página de detalhes de cada produto, acessível ao clicar em qualquer item
 - Requisições feitas usando `fetch` diretamente nos componentes
 - Estilização personalizada com CSS moderno e responsivo
-- Informações exibidas em **português**, com preços arredondados para facilitar leitura
 
-## 🚀 API utilizada
+##  API utilizada
 
 - **DummyJSON API**
 - Endpoint: `https://dummyjson.com/products`
 - Requisições GET para buscar a lista e detalhes
 
-## 🧩 Observações
+##  Observações
 
 - Projeto atende aos requisitos de ter duas páginas com rotas distintas
 - Pode ser estendido para incluir métodos POST, PUT e DELETE
 
-## 💻 Como rodar localmente
-
-```bash
-npm install
-npm start
-```
 
 ---
 
